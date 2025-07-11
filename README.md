@@ -72,6 +72,8 @@ Captures transactional-level promotional data across stores and products.
 
 **Goal:** Evaluate which stores and cities contributed most to revenue and sales uplift during campaigns.
 
+<img width="1276" height="724" alt="image" src="https://github.com/user-attachments/assets/38f293cc-0071-4dec-8fb9-982263f3ff30" />
+
 **Key Findings:**
 - **Top performing cities**: Mysuru, Chennai, and Bengaluru generated the highest Incremental Revenue (IR).
 - **Highest-performing store**: `STMYS-1` in Mysuru topped all stores with ₹6.4M IR.
@@ -80,12 +82,12 @@ Captures transactional-level promotional data across stores and products.
 - **City-wise IR and ISU were aligned**, indicating consistent promotion effectiveness in top-performing regions.
 
 ---
-<img width="1276" height="724" alt="image" src="https://github.com/user-attachments/assets/38f293cc-0071-4dec-8fb9-982263f3ff30" />
-
 
 ### 🧾 2. Promotion Type Analysis
 
 **Goal:** Understand which types of promotions were most effective in driving sales and revenue.
+
+<img width="1278" height="717" alt="image" src="https://github.com/user-attachments/assets/79b45a61-ec02-4aa5-b3b3-2ae525b758f2" />
 
 **Key Findings:**
 - **Best performing promotions**:
@@ -97,12 +99,12 @@ Captures transactional-level promotional data across stores and products.
 - **Seasonally-aligned promotions** (e.g., BOGOF for Sankranti groceries) delivered better results.
 
 ---
-<img width="1278" height="717" alt="image" src="https://github.com/user-attachments/assets/79b45a61-ec02-4aa5-b3b3-2ae525b758f2" />
-
 
 ### 📦 3. Category & Product Analysis
 
 **Goal:** Identify which product categories and individual items performed best or worst during the campaigns.
+
+<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/b2b36979-f68f-4789-be83-aa1b5762ad09" />
 
 **Key Findings:**
 - **Top categories by ISU**:
@@ -118,8 +120,6 @@ Captures transactional-level promotional data across stores and products.
   - Grocery and daily-use items responded better to promotions during Sankranti.
 
 ---
-<img width="1280" height="722" alt="image" src="https://github.com/user-attachments/assets/b2b36979-f68f-4789-be83-aa1b5762ad09" />
-
 
 ## 🧠 Ad-Hoc SQL Insights
 
